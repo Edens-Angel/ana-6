@@ -25,6 +25,10 @@
     "./jsx-runtime": "./jsx-runtime.js",
     "./": "./"
   },
+  "engines": {
+    "yarn": "1.22.15",
+    "node": "14.16.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
